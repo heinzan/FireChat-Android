@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718738055487",
+    "firebase_url": "https://testfirechat-eb1e2.firebaseio.com",
+    "project_id": "testfirechat-eb1e2",
+    "storage_bucket": "testfirechat-eb1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718738055487:android:98a3f23b06d89683",
+        "android_client_info": {
+          "package_name": "com.tolymoly.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718738055487-rnuqinu1if01kgnfd3vcdp9a05td661i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tolymoly.fireapp",
+            "certificate_hash": "31156ffdfdd66eb77272bcb813e3b2255cb078f5"
+          }
+        },
+        {
+          "client_id": "718738055487-ap6hl2mk5aj2t978k2o55bc7irr71gm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7TPDnzwq09VuFHkiZeeehrv_6aTu22VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718738055487-ap6hl2mk5aj2t978k2o55bc7irr71gm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
